@@ -41,5 +41,7 @@ Bar Charts: Employee length and loan purpose analysis
 5. Details Dashboard
 Unified view of all critical metrics
 Enables deep-dive analysis into borrower profiles and loan performance
-
 Designed for decision-makers and analysts to assess financial health efficiently
+
+6. Screenshot/Demos
+
